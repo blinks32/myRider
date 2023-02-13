@@ -3,17 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  firebase: {
-    apiKey: 'AIzaSyAM7UJdVZo95dz00IKQz_p0uI8Bse5KnZ8',
-    authDomain: 'reboot-22979.firebaseapp.com',
-    projectId: 'reboot-22979',
-    storageBucket: 'reboot-22979.appspot.com',
-    messagingSenderId: '1033966813085',
-    appId: '',
-  },
-  production: true,
-  apiKey: "AIzaSyCADIfYc5d71X-fQNBcHwwB5rizCZ1Ios0",
-  CountryJson: [
+    apiKey: "AIzaSyBnD5uXvKRAFgegdQVrWZaAj3lDQnHOxU0",
+    authDomain: "flytaxi-376601.firebaseapp.com",
+    projectId: "flytaxi-376601",
+    storageBucket: "flytaxi-376601.appspot.com",
+    messagingSenderId: "661849920974",
+    appId: "",
+
+},
+production: true,
+apiKey: "AIzaSyBnD5uXvKRAFgegdQVrWZaAj3lDQnHOxU0",
+CountryJson: [
     {
         "name": "Afghanistan",
         "dialCode": "+93",
